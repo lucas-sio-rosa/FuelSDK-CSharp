@@ -12,6 +12,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Xml.Linq;
 using System.Xml.Serialization;
+using JWT;
 using System.Xml.XPath;
 
 namespace FuelSDK
